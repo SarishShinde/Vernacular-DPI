@@ -214,6 +214,10 @@ JavaScript / React Native Dependencies:
       * step1.mp3, step2.mp3, step3.mp3 (English equivalents).
   * beep.mp3 – short beep sound for success feedback.
 
+In C:\vosk-server
+* models folder :
+vosk-model-small-hi-0.22 --download and extract here
+
 * stt_server.py
 
   * Flask server exposing:
